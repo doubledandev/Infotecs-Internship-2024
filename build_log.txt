@@ -1,0 +1,12 @@
+-- The C compiler identification is GNU 14.1.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/dan/Downloads/Test/build
+[ 50%] Building C object CMakeFiles/SQLite.dir/src/sqlite3.c.o
+[100%] Linking C shared library libSQLite.so
+[100%] Built target SQLite
